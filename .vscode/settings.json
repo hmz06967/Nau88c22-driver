@@ -1,0 +1,17 @@
+{
+    "C_Cpp.errorSquiggles": "Enabled",
+    "C_Cpp.default.includePath": [
+        "C:/msys64/mingw64/lib/gcc/i686-pc-cygwin/6.4.0/include/**"
+    ],
+    "code-runner.saveFileBeforeRun": true,
+    "C_Cpp.codeAnalysis.clangTidy.headerFilter": "",
+    "files.associations": {
+        "queue.h": "c",
+        "nau88c22.h": "c",
+        "stdint.h": "c",
+        "audio.h": "c",
+        "codec.h": "c",
+        "inttypes.h": "c"
+    }
+
+} 
