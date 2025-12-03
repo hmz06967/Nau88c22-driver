@@ -2,4 +2,4 @@
 
 Please test from exmaples/io.c
 
-This site was built using [Software Detail Page](https://www.hamzaozkan.com.tr/2024/07/nau88c22-driver-professional-audio.html).
+This page briefly explains the details of the project. [Software Detail Page](https://www.hamzaozkan.com.tr/2024/07/nau88c22-driver-professional-audio.html).
